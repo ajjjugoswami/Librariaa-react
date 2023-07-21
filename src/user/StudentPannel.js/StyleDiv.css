@@ -1,0 +1,14 @@
+.imagediv{
+    height: 300px;
+    width: 300px;
+float: left;
+margin: 2rem;
+border: none;
+    
+}
+
+.imageclass{
+   width: 100%;
+   height: 100%;
+   border: none;
+}

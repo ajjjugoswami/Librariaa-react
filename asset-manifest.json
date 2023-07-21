@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Librariaa-react/static/css/main.2df9160c.css",
+    "main.js": "/Librariaa-react/static/js/main.aa899e0b.js",
+    "index.html": "/Librariaa-react/index.html",
+    "main.2df9160c.css.map": "/Librariaa-react/static/css/main.2df9160c.css.map",
+    "main.aa899e0b.js.map": "/Librariaa-react/static/js/main.aa899e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df9160c.css",
+    "static/js/main.aa899e0b.js"
+  ]
+}
